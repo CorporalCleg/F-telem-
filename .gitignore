@@ -1,2 +1,11 @@
+# exclude everything
 /fourier/mat_files/*
+
+# exception to the rule
+!/fourier/mat_files/.gitkeep 
+
+# exclude everything
 /fourier/spectrum_data/*
+
+# exception to the rule
+!/fourier/spectrum_data/.gitkeep 
