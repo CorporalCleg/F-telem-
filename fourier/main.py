@@ -8,6 +8,8 @@ import os
 
 
 if __name__ == '__main__':
+
+    #frequency of telem. writing
     freq = 987
 
     filename = os.listdir('fourier/mat_files/')[0]
