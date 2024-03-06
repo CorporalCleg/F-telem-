@@ -34,5 +34,5 @@ if __name__ == '__main__':
             plt.ylabel(f'F[key]')
             plt.legend()
             plt.grid()
-    plt.savefig(f'fourier/plots/spectrum')
+    plt.savefig(f'fourier/plots/spectrum_from({name})')
     df_fourier.to_csv(f'fourier/spectrum_data/spectrum_from({name}).csv')
