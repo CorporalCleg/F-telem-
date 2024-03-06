@@ -1,2 +1,2 @@
-/fourier/mat_files
-/fourier/spectrum_data
+/fourier/mat_files/*
+/fourier/spectrum_data/*
